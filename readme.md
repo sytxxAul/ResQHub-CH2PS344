@@ -1,5 +1,5 @@
-(unfinished)
-
+# ResQHub
+(This readme.md is not finished)
 ## Developers:
 1. Raihansyah Arifin (<span style="color:red;" >CC</span>|C010BSY3731) - Ex. Machine Learning Cohort, Cloud Computing Cohort
    - ResQHub API Developer
