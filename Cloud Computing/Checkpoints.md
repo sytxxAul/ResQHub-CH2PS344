@@ -5,7 +5,7 @@
 - [x] Cost Estimating
 - [x] Additional: creating a survey app
 ### Week 1: API 1
-- [ ] Creating API 1a and its documentation for MD
+- [x] Creating API 1a and its documentation for MD
 - [ ] Creating API 1b and its documentation for MD
 - [ ] Debugging
 - [ ] Deploying API 1a and 1b
