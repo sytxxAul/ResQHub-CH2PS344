@@ -1,28 +1,28 @@
 # ResQHub
 (This readme.md is not finished)
 ## Developers:
-1. Raihansyah Arifin (<span style="color:red;" >CC</span>|C010BSY3731) - Ex. Machine Learning Cohort, Cloud Computing Cohort
+1. Raihansyah Arifin (<span style="color:red;">CC</span>|C010BSY3731) - Ex. Machine Learning Cohort, Cloud Computing Cohort
    - ResQHub API Developer
    - GCP Infrastructure Manager
    - Machine Learning advisor
    
-2. Mahrunisa Indah Puteri Alia (<span style="color:red;" >CC</span>|C486BSX3022) - Cloud Computing Cohort
+2. Mahrunisa Indah Puteri Alia (<span style="color:red;">CC</span>|C486BSX3022) - Cloud Computing Cohort
    - ResQHub API Developer
    - GCP Infrastructure Manager
    
-3. Jason Albert Natanael (<span style="color:red;" >ML</span>|M010BSY0255) - Machine Learning Cohort
+3. Jason Albert Natanael (<span style="color:red;">ML</span>|M010BSY0255) - Machine Learning Cohort
    - Machine Learning Developer
    
-4. Marlo Emiliano Muktiono (<span style="color:red;" >ML</span>|M010BSY0107) - Machine Learning Cohort
+4. Marlo Emiliano Muktiono (<span style="color:red;">ML</span>|M010BSY0107) - Machine Learning Cohort
    - Machine Learning Developer
    
-5. Alip Maskhuri (<span style="color:red;" >ML</span>|M486BSY1368) – Machine Learning Cohort 
+5. Alip Maskhuri (<span style="color:red;">ML</span>|M486BSY1368) – Machine Learning Cohort 
    - Machine Learning Developer
    
-6. Aula Firdaus Azmi (<span style="color:red;" >MD</span>|A486BSY2915) - Mobile Development Cohort
+6. Aula Firdaus Azmi (<span style="color:red;">MD</span>|A486BSY2915) - Mobile Development Cohort
    - Android Mobile Developer
    
-7. Indrawan Jefray Delo (<span style="color:red;" >MD</span>|A710BSY2587) - Mobile Development Cohort
+7. Indrawan Jefray Delo (<span style="color:red;">MD</span>|A710BSY2587) - Mobile Development Cohort
    - Android Mobile Developer
 
 ## What
